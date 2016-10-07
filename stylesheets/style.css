@@ -1,0 +1,16 @@
+#pinkText {
+    color: pink;
+}
+
+.underlinedText {
+    text-decoration: underline;
+}
+
+.boldedBigText {
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+#div1 li, p {
+    color: blue;
+}
